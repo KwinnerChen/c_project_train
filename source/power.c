@@ -2,7 +2,7 @@
 //
 # include <stdio.h>
 
-double power(double n, int p);
+double power(double n, int p);  //函数原型声明应该在头部，但是函数定义无所谓在哪里
 
 int main(void)
 {
