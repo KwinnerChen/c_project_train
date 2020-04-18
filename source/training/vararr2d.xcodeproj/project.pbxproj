@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		19DE7C1C24447A2100ACC7AD /* training */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = training; sourceTree = BUILT_PRODUCTS_DIR; };
+		19DE7C1C24447A2100ACC7AD /* vararr2d */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = vararr2d; sourceTree = BUILT_PRODUCTS_DIR; };
 		19DE7C1F24447A2100ACC7AD /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		19DE7C1324447A2100ACC7AD = {
 			isa = PBXGroup;
 			children = (
-				19DE7C1E24447A2100ACC7AD /* training */,
+				19DE7C1E24447A2100ACC7AD /* vararr2d */,
 				19DE7C1D24447A2100ACC7AD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		19DE7C1D24447A2100ACC7AD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				19DE7C1C24447A2100ACC7AD /* training */,
+				19DE7C1C24447A2100ACC7AD /* vararr2d */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		19DE7C1E24447A2100ACC7AD /* training */ = {
+		19DE7C1E24447A2100ACC7AD /* vararr2d */ = {
 			isa = PBXGroup;
 			children = (
 				19DE7C1F24447A2100ACC7AD /* main.c */,
 			);
-			path = training;
+			path = vararr2d;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		19DE7C1B24447A2100ACC7AD /* training */ = {
+		19DE7C1B24447A2100ACC7AD /* vararr2d */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 19DE7C2324447A2100ACC7AD /* Build configuration list for PBXNativeTarget "training" */;
+			buildConfigurationList = 19DE7C2324447A2100ACC7AD /* Build configuration list for PBXNativeTarget "vararr2d" */;
 			buildPhases = (
 				19DE7C1824447A2100ACC7AD /* Sources */,
 				19DE7C1924447A2100ACC7AD /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = training;
+			name = vararr2d;
 			productName = training;
-			productReference = 19DE7C1C24447A2100ACC7AD /* training */;
+			productReference = 19DE7C1C24447A2100ACC7AD /* vararr2d */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 19DE7C1724447A2100ACC7AD /* Build configuration list for PBXProject "training" */;
+			buildConfigurationList = 19DE7C1724447A2100ACC7AD /* Build configuration list for PBXProject "vararr2d" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,7 +110,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				19DE7C1B24447A2100ACC7AD /* training */,
+				19DE7C1B24447A2100ACC7AD /* vararr2d */,
 			);
 		};
 /* End PBXProject section */
@@ -255,7 +255,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		19DE7C1724447A2100ACC7AD /* Build configuration list for PBXProject "training" */ = {
+		19DE7C1724447A2100ACC7AD /* Build configuration list for PBXProject "vararr2d" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				19DE7C2124447A2100ACC7AD /* Debug */,
@@ -264,7 +264,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		19DE7C2324447A2100ACC7AD /* Build configuration list for PBXNativeTarget "training" */ = {
+		19DE7C2324447A2100ACC7AD /* Build configuration list for PBXNativeTarget "vararr2d" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				19DE7C2424447A2100ACC7AD /* Debug */,

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:training.xcodeproj">
+      location = "self:/Users/hafu/Desktop/c_project_train/source/training/vararr2d.xcodeproj">
    </FileRef>
 </Workspace>
