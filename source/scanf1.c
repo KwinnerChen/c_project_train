@@ -7,7 +7,7 @@ int main(void)
 {
     char words [LEN];
 
-    while (fgets(words, LEN, stdin) != NULL && words[0] != '\n')
+    while (fgets(words, LEN, stdin) && words[0] != '\n')  // fgets(words, LEN, stdin) != NULL
     {
         // printf("%s\n", words);
         printf("%s", words);
